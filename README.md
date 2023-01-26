@@ -31,4 +31,26 @@ through the chat with the bot._
 
     Clicking the "Sending to channels" button.
 
-![admin menu](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/admin%20menu.png)
+![Sending to channels](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/sending%20to%20channels.png)
+
+    Clicking the "/channels" comand.
+
+![/channels](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/channels.png)
+
+    The result of the "/channels" command. Messages arrive at the same time.
+
+![message to channels](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/messages%20to%20channels.png)
+
+    Clicking the "Sending to chats" button.
+
+![Sending to chats](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/sending%20to%20chats.png)
+
+    Clicking the "/chats" comand.
+
+![/chats](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/chats.png)
+
+    The result of the "/chats" command. Messages arrive at the same time.
+
+![message to chats](https://github.com/shancuha15/python_tgbot_Sending-a-message-to-channels-and-chats/blob/main/readme%20photo/messages%20to%20chats.png)
+
+# Thank you for your attention!
